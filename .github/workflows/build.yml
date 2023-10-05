@@ -1,4 +1,6 @@
 on:
+  fork:
+
   pull_request:
     paths-ignore:
       - 'docs/**'
@@ -10,6 +12,8 @@ on:
       - 'psalm.xml'
 
   push:
+    branches:
+      - master
     paths-ignore:
       - 'docs/**'
       - 'README.md'
