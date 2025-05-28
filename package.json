@@ -1,5 +1,5 @@
 {
     "dependencies": {
-        "jquery-ui": "^1.14.1"
+        "components-jqueryui": "^1.12.1"
     }
 }

@@ -18,7 +18,7 @@ class JuiAsset extends AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@npm/jquery-ui';
+    public $sourcePath = '@npm/components-jqueryui';
     /**
      * {@inheritdoc}
      */
